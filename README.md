@@ -1,6 +1,6 @@
 # Championship Manager 03/04 Enhanced
 
-Некоммерческий проект развития Championship Manager 03/04. Текущая версия 2026.0.
+Некоммерческий проект развития Championship Manager 03/04. Текущая версия 2026.1.
 
 ## Установка
 
